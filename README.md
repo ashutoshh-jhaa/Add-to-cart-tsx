@@ -1,4 +1,4 @@
-# E-Commerce Product List
+# React & TypeScript: Add to Cart Functionality
 
 ## Overview
 This is a simple e-commerce product listing app built with **React, TypeScript, and Tailwind CSS**. It fetches products from [FakeStoreAPI](https://fakestoreapi.com/) and allows users to add items to a cart. The cart count updates dynamically, and users can view their selected products in a modal.
